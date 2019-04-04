@@ -30,9 +30,6 @@
 
         <!--End of my code -->
 
-
-
-
 <?php get_footer();
 
 
