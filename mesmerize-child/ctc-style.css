@@ -354,14 +354,14 @@ h1.hero-title {
   font-family: "Lato",sans-serif;
   font-size: 2rem;
   margin-bottom: -1.5em;
-  color: grey;;
+  color: black;;
   margin-top: 50px;
 }
 
 .contact-one, .contact-two, .contact-three {
   text-align: center;
   margin-bottom: 50px;
-  color: grey;
+  color: black;
 }
 
 .page-id-34 .fas {
@@ -561,7 +561,6 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: pink;
   color: black;
   padding: 20%;
 }
@@ -623,13 +622,13 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 }
 
 .service-text-container {
-  background: linear-gradient(#444,#222);
+  background: linear-gradient(#fff,#d3d3d3);
   margin-top: -6rem;
 }
 
 .services-text-box {
   padding: 5%;
-  color: #fdfdfd;
+  color:black;
   margin: auto;
   width: 60%;
   text-align:center;
@@ -643,7 +642,7 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 }
 
 .cta-button {
-  background-color: #ff6900;
+  background-color: rgba(153,204,238,.4);
   font-size: 18px;
   border: 2px solid lightgrey;
   border-radius: 28px;
@@ -657,7 +656,7 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 }
 
 .cta-button:hover {
-  background-color: #9ce;
+  background-color: rgba(255,105,0,.8);
 
 }
 
@@ -769,7 +768,7 @@ h1.hero-title {
 .contact-one, .contact-two, .contact-three {
 text-align: center;
 margin-bottom: 50px;
-color: white;
+color: black;
 }
 
 .page-id-34 .fas {
@@ -886,7 +885,6 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: pink;
   color: black;
   padding: 30%;
   width: 100%;
@@ -918,14 +916,14 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 }
 
 .service-text-container {
-  background: linear-gradient(#444,#222);
+  background: linear-gradient(#fff,#d3d3d3);
   margin-top: -3rem;
   margin-bottom: 2em;
 }
 
 .services-text-box {
   padding: 5%;
-  color: #fdfdfd;
+  color: black;
   margin: auto;
   width: 100%;
   text-align:center;
@@ -942,7 +940,7 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 
 
 .cta-button {
-  background-color: #ff6900;
+  background-color: rgba(153,204,238,.4);
   font-size: 14px;
   border: 2px solid lightgrey;
   border-radius: 28px;
@@ -1050,7 +1048,7 @@ margin-top: 4em;
 .contact-one, .contact-two, .contact-three {
 text-align: center;
 margin-bottom: 50px;
-color: white;
+color: black;
 }
 
 .page-id-34 .fas {
@@ -1167,7 +1165,6 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: pink;
   color: black;
   padding: 25%;
   width: 90%;
@@ -1200,14 +1197,14 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 }
 
 .service-text-container {
-  background: linear-gradient(#444,#222);
+  background: linear-gradient(#fff,#d3d3d3);
   margin-top: -3rem;
   margin-bottom: 2em;
 }
 
 .services-text-box {
   padding: 5%;
-  color: #fdfdfd;
+  color: black;
   margin: auto;
   width: 100%;
   text-align:center;
@@ -1224,7 +1221,7 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 
 
 .cta-button {
-  background-color: #ff6900;
+  background-color: rgba(153,204,238,.4);
   font-size: 14px;
   border: 2px solid lightgrey;
   border-radius: 28px;
@@ -1329,7 +1326,7 @@ margin-top: 2em;
 .contact-one, .contact-two, .contact-three {
 text-align: center;
 margin-bottom: 50px;
-color: white;
+color: black;
 }
 
 .page-id-34 .fas {
@@ -1443,7 +1440,6 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: pink;
   color: black;
   padding: 25%;
 }
@@ -1474,14 +1470,14 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 }
 
 .service-text-container {
-  background: linear-gradient(#444,#222);
+  background: linear-gradient(#fff,#d3d3d3);
   margin-top: -6rem;
   margin-bottom: 2em;
 }
 
 .services-text-box {
   padding: 5%;
-  color: #fdfdfd;
+  color: black;
   margin: auto;
   width: 100%;
   text-align:center;
@@ -1498,7 +1494,7 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 
 
 .cta-button {
-  background-color: #ff6900;
+  background-color: rgba(153,204,238,.4);
   font-size: 15px;
   border: 2px solid lightgrey;
   border-radius: 28px;
@@ -1580,7 +1576,7 @@ h1.hero-title {
 .contact-one, .contact-two, .contact-three {
   text-align: center;
   margin-bottom: 50px;
-  color: white;
+  color: black;
 }
 
 .page-id-34 .fas {
@@ -1701,7 +1697,6 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: pink;
   color: black;
   padding: 25%;
 }
@@ -1732,14 +1727,14 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 }
 
 .service-text-container {
-  background: linear-gradient(#444,#222);
+  background: linear-gradient(#fff,#d3d3d3);
   margin-top: -6rem;
   margin-bottom: 2em;
 }
 
 .services-text-box {
   padding: 5%;
-  color: #fdfdfd;
+  color: black;
   margin: auto;
   width: 100%;
   text-align:center;
@@ -1756,7 +1751,7 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 
 
 .cta-button {
-  background-color: #ff6900;
+  background-color: rgba(153,204,238,.4);
   font-size: 16px;
   border: 2px solid lightgrey;
   border-radius: 28px;
@@ -1835,7 +1830,7 @@ h1.hero-title {
 .contact-one, .contact-two, .contact-three {
   text-align: center;
   margin-bottom: 50px;
-  color: white;
+  color: black;
 }
 
 .page-id-34 .fas {
@@ -1972,7 +1967,6 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: pink;
   color: black;
   padding: 20%;
 }
@@ -2003,13 +1997,13 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 }
 
 .service-text-container {
-  background: linear-gradient(#444,#222);
+  background: linear-gradient(#fff,#d3d3d3);
   margin-top: -6rem;
 }
 
 .services-text-box {
   padding: 5%;
-  color: #fdfdfd;
+  color: black;
   margin: auto;
   width: 80%;
   text-align:center;
@@ -2024,7 +2018,7 @@ body #page h5, body #page .comment-author .fn, .comment-author body #page .fn {
 
 
 .cta-button {
-  background-color: #ff6900;
+  background-color: rgba(153,204,238,.4);
   font-size: 16px;
   border: 2px solid lightgrey;
   border-radius: 28px;
